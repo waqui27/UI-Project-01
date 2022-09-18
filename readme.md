@@ -1,6 +1,6 @@
 # UI Project 01 - Digital Marketing Website Homepage
 
-> ### **Deployed Website** :-[Live Link](https://ui-project-1.netlify.app/)
+> ### **Deployed Website** :-[Live Link](https://ui-project-01.netlify.app/)
 <br>
 
 ![HTML](https://img.shields.io/badge/Html-5-E34F26?style=for-the-badge&logo=HTML5)
